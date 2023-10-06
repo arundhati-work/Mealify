@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mealify/static/css/main.073c9b0a.css",
+    "main.js": "/mealify/static/js/main.82ac4ef5.js",
+    "static/js/787.9ad5dc3a.chunk.js": "/mealify/static/js/787.9ad5dc3a.chunk.js",
+    "static/media/logo.svg": "/mealify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mealify/index.html",
+    "main.073c9b0a.css.map": "/mealify/static/css/main.073c9b0a.css.map",
+    "main.82ac4ef5.js.map": "/mealify/static/js/main.82ac4ef5.js.map",
+    "787.9ad5dc3a.chunk.js.map": "/mealify/static/js/787.9ad5dc3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82ac4ef5.js"
+  ]
+}
